@@ -1,3 +1,3 @@
 # Fectorial-Java
 My first github program <br>
-Author-Abdus Samee
+Author-Abdus Samee(Abdus)
